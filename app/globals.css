@@ -40,3 +40,15 @@ a {
     color-scheme: dark;
   }
 }
+
+.nav{
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+  height: 70px;
+  align-items: center;
+}
+.nav div{
+  display: flex;
+  gap: 20px;
+}
